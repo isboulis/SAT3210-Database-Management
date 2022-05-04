@@ -1,0 +1,51 @@
+﻿UPC,Name,Stock,Purchased,Product_Category
+1833435,Pepsi,345,139,Pop
+1860355,Diet Pepsi,76,47,Pop
+1003102,Cherry Pepsi,268,167,Pop
+1087620,Diet Cherry Pepsi,448,49,Pop
+1501714,Coke,221,122,Pop
+1671029,Diet Coke,60,61,Pop
+1962907,Cherry Coke,60,240,Pop
+1221306,Diet Cherry Coke,495,226,Pop
+1807600,Mtn Dew,425,129,Pop
+1323931,Diet Mtn Dew,360,13,Pop
+1990653,Mtn Dew Voltage,35,194,Pop
+1659799,Mtn Dew Code Red,440,114,Pop
+1186015,Monster,65,188,Energy Drinks
+1041628,Monster Ultra,77,214,Energy Drinks
+1896320,Monster Ultra Violet,370,102,Energy Drinks
+1552156,Starbucks Double Vanilla,361,186,Iced Coffee
+1468478,Starbucks Double Mocha,202,193,Iced Coffee
+1176374,Starbucks Triple Vanilla,19,192,Iced Coffee
+1789770,Starbucks Triple Mocha,298,116,Iced Coffee
+1938783,Hot Coffee,16,187,Hot Beverages
+1503446,Hot Chocolate,268,48,Hot Beverages
+1457200,Hot Dog,161,69,Hot Food
+1335070,Hamburger,491,16,Hot Food
+1463279,CheeseBurger,165,0,Hot Food
+1255642,Cheese Pizza,150,23,Hot Food
+1048786,Pepperoni Pizza,127,3,Hot Food
+1106769,Supreme Pizza,329,69,Hot Food
+1199537,Meat Lovers Pizza,383,97,Hot Food
+1256161,Doritos Nacho,456,230,Chips
+1234630,Doritos Cool Ranch,181,226,Chips
+1805969,Lays original,412,179,Chips
+1359365,Lays Sour Cream and Onion,494,128,Chips
+1400828,Lays Cheddar,396,216,Chips
+1677641,Lays Ripples,194,187,Chips
+1528787,Lays Ripples Sour Cream and Onion,378,125,Chips
+1587082,Lays Ripples Cheddar,111,82,Chips
+1630688,Reese's Cups,35,3,Candy
+1255307,Reese's pieces,306,244,Candy
+1011038,Hersheys,334,150,Candy
+1268761,Kitkat,491,171,Candy
+1431026,Butter Finger,319,73,Candy
+1995532,Gummy Worms,355,113,Candy
+1063215,Peach Rings,110,138,Candy
+1557185,5_Gum Wintergreen,400,32,Gum
+1244478,5_Gum Spearmint,84,194,Gum
+1310772,TikTacs,51,92,Candy
+1104280,Cheeseitz,349,201,Snacks
+1187756,Gold Fish,458,38,Snacks
+1937006,Ritz,325,11,Snacks
+1915675,Nilla Wafers,452,148,Snacks
